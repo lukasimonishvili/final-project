@@ -168,15 +168,11 @@ header nav ul li a{
 	font-family: 'Nexa Book';
 	font-size:36px;
 	color:#FFF;
-	left:50%;
-	transform: translateX(-36%);
 }
 .map-h3{
 	font-family: 'Nexa XBold';
 	font-size:14px;
 	color:#a161db;
-	left:50%;
-	transform: translateX(-7%);
 	padding-top:12px;
 	padding-bottom:25px;
 }
@@ -476,3 +472,7 @@ header nav ul li a{
 	color:#7e7e7e;
 }
 /*footer end*/
+
+/*responsive*/
+
+/*responsive end*/
